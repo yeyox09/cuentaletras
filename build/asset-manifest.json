@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cuentaletras/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cuentaletras/static/js/main.65629449.chunk.js",
+    "main.js.map": "/cuentaletras/static/js/main.65629449.chunk.js.map",
+    "runtime-main.js": "/cuentaletras/static/js/runtime-main.16e25314.js",
+    "runtime-main.js.map": "/cuentaletras/static/js/runtime-main.16e25314.js.map",
+    "static/js/2.880dc675.chunk.js": "/cuentaletras/static/js/2.880dc675.chunk.js",
+    "static/js/2.880dc675.chunk.js.map": "/cuentaletras/static/js/2.880dc675.chunk.js.map",
+    "static/js/3.1693fe6e.chunk.js": "/cuentaletras/static/js/3.1693fe6e.chunk.js",
+    "static/js/3.1693fe6e.chunk.js.map": "/cuentaletras/static/js/3.1693fe6e.chunk.js.map",
+    "index.html": "/cuentaletras/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cuentaletras/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.880dc675.chunk.js.LICENSE.txt": "/cuentaletras/static/js/2.880dc675.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cuentaletras/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16e25314.js",
+    "static/js/2.880dc675.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.65629449.chunk.js"
+  ]
+}
